@@ -10,5 +10,5 @@ With over 13 years of experience as a Lead Software Developer, I specialize in c
 
 ## Achievements
 
-- 🏆 [Microsoft Learn Profile]( https://learn.microsoft.com/en-us/users/mahalakshmialagarsamy-0016/transcript/v2y0ls42g1kw25o.)
+- 🏆 [Microsoft Learn Profile]( https://learn.microsoft.com/en-us/users/mahalakshmialagarsamy-0016/transcript/v2y0ls42g1kw25o)
   
