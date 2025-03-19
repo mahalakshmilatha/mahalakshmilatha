@@ -4,30 +4,11 @@ With over 13 years of experience as a Lead Software Developer, I specialize in c
 - 📫 How to reach me: mahalakshmi.latha@gmail.com
 
 
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mahalakshmilatha&show_icons=true&hide_border=true)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahalakshmilatha&layout=compact)
-
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mahalakshmilatha)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/mahalakshmilatha)
-
-## Projects
-
-- [Project 1](https://github.com/mahalakshmilatha/project1) - A project that does X
-- [Project 2](https://github.com/mahalakshmilatha/project2) - A project that helps with Y
-
-## Blog Posts
-
-- [Understanding Python Decorators](https://yourblog.com/python-decorators)
-- [Introduction to Machine Learning](https://yourblog.com/machine-learning)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mahalakshmi-alagarsamy-47417518/)
 
 ## Achievements
 
-- 🏆 Completed 100 Days of Code challenge.
-- 🏆 Contributed to 10+ open-source projects.
+- 🏆 [Microsoft Learn Profile]( https://learn.microsoft.com/en-us/users/mahalakshmialagarsamy-0016/transcript/v2y0ls42g1kw25o.)
+  
